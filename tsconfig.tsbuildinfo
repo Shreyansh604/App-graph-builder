@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/canvas/canvas.tsx","./src/components/canvas/servicenode.tsx","./src/components/layout/topbar.tsx","./src/hooks/usedata.ts","./src/mocks/browser.ts","./src/mocks/handlers.ts","./src/store/uistore.ts","./src/types/index.ts"],"version":"6.0.3"}
